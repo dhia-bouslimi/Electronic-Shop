@@ -51,7 +51,7 @@ body {
 }
 
 .back{
-    background-image: url(../img/bc.jpg);
+    background-image: url(img/bc.jpg);
     background-attachment: fixed;
   
     background-position:center;
